@@ -25,11 +25,11 @@ function Hero({ id }) {
             <h1 className="font-bold text-4xl md:text-6xl">
               Hi, It's Jala Shikhaliyeva
             </h1>
-            <Typewriter
+            {/* <Typewriter
               text="I'm a Frontend Developer"
               speed={150}
               pause={2000}
-            />
+            /> */}
             <div className="flex gap-4 pt-9">
               <button>
                 <a

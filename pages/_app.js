@@ -11,6 +11,7 @@ export default function App({ Component, pageProps }) {
     AOS.init({
       duration: 1500,
       once: false,
+      disable: 'mobile'  
     });
     AOS.refresh();
 
