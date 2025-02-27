@@ -1,0 +1,10 @@
+{
+  "nav": {
+    "Home": "Главная",
+    "About": "Обо мне",
+    "Skills": "Навыки",
+    "Contact": "Контакты",
+    "Projects": "Проекты",
+        "Education": "Education"
+  }
+}
